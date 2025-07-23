@@ -20,7 +20,7 @@ export const PROJECT = [
     name: "X (Twitter) clone ",
     image: xClone,
     url: "https://x-project-clone-ascw.vercel.app/",
-    technologies: ['React', 'TypeScript', 'Axios', 'Auth','MongoDB']
+    technologies: ['Next.js', 'TypeScript', 'Axios', 'Auth','MongoDB']
   },
   {
     name: "E-commerce site",
@@ -31,7 +31,7 @@ export const PROJECT = [
 ];
 
 export const SKILLS = [
-  "React, Angular, Vue.js",
+  "React, Angular, Next.js",
   "Node.js, Express, Django",
   "PostgreSQL, MySQL, MongoDB, and Firebase",
   "RESTful and CRUD APIs",

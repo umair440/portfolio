@@ -2,11 +2,11 @@ import { SKILLS } from "../constants"
 
 import { FaHtml5,FaCss3,FaReact, } from "react-icons/fa"
 {SKILLS}
-const Skills = ({activeSession}) => {
+const Skills = ({}) => {
   return (
     <div className="mt-20 scroll-mt-20" id="skills">
       <div className="flex flex-col items-center justify-center">
-        <h2 className="my-12 text-center text-2xl font-semibold uppercase tracking-wide text-slate-100">
+        <h2 className="my-12 text-center text-4xl font-semibold uppercase tracking-wide text-slate-100">
             Skills
         </h2>
 
