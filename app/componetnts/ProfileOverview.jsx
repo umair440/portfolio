@@ -3,7 +3,7 @@
 import {FaDownload} from "react-icons/fa";
 import {motion} from "framer-motion"; 
 import { FaGithub, FaLinkedin, FaMedium } from "react-icons/fa";
-import { useEffect, useRef, useState } from "react";
+import { useState } from "react";
 const ProfileOverview = () => {
 
   const [isPaused, setIsPaused] = useState(false);
