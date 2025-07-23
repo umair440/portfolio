@@ -56,7 +56,7 @@ const ProfileOverview = () => {
 
         </motion.div>
         
-    <div id="item-carasel" className="min-w-[600px] max-w-[800px] mx-auto">
+    <div id="item-carasel" className="w-[350] sm:min-w-[350px] md:max-w-[800px] mx-auto">
       <div
         id=""
         className="logos relative overflow-hidden py-[60px] flex justify-center"
